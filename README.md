@@ -54,7 +54,7 @@ If you are viewing this README.md file using a computer, a browser and a connect
 
 - Github: [@ershadul1](https://github.com/ershadul1)
 - Twitter: [@ErshadulRayhan](https://twitter.com/ErshadulRayhan)
-- Linkedin: [ErshadulRayhan](https://www.linkedin.com/in/ershadul-hakim-rayhan-a5a17649/)
+- Linkedin: [ErshadulRayhan](https://www.linkedin.com/in/ershadulrayhan/)
 - Email:  ershadul.rayhan@gmail.com
 
 ## 🤝 Contributing
